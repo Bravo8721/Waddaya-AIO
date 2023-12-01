@@ -1,0 +1,2 @@
+# Waddaya-AIO
+ MDM Software
